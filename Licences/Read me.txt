@@ -1,0 +1,9 @@
+﻿JackBuzz ist released under the GNU General Public Licence (GNU GPL).
+
+JackBuzz uses the Buzzer.dll from Holger Kuhn (hawkear@gmx.de), which is released under the MIT Licence
+
+The JackBuzz-Logo has been created by Philipp Schmieder (www.nn-d.de).
+
+JackBuzz has been written by Martin Gross (www.pc-coholic.de / martin@pc-coholic.de)
+
+To contact the author, feel free to write to martin@pc-coholic.de or leave a comment in the Tracker-System at Sourceforge.net
